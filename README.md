@@ -8,9 +8,9 @@ Sara Khosravi 97101586
 
 Ghazal Shenavar 97101897
 
-Important Note:
+## Note:
 
-I couldn't fork the main repository of our group project because it's repository (Sharif Embedded Systems) is private. So in this repository contributions are not defined.
+I couldn't fork the main repository of our group project because it's repository (Sharif Embedded Systems) is private. So, in this repository contributions are not defined.
 
 ## List of contents
 - [Setup Project](#setup-project)
