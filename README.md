@@ -2,11 +2,11 @@
 
 ## Team members:
 
-Ghazal Shenavar 97101897
+Sepehr Safari 97108263
 
 Sara Khosravi 97101586
 
-Sepehr Safari 97108263
+Ghazal Shenavar 97101897
 
 ## List of contents
 - [Setup Project](#setup-project)
